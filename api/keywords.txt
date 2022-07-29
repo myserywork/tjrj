@@ -1,0 +1,50 @@
+ação
+competência
+assunto
+classe
+autor
+réu
+advogado(s)
+cidade
+requerente
+requerido
+autor do fato
+polo ativo
+autor
+requerente
+exequente
+embargante
+agravante
+apelante
+demandante
+reconvinte
+denunciante
+reclamante
+representante
+repte
+interessado
+declarante
+credor
+impugnante
+recorrente
+impetrante
+envolvido
+polo Passivo
+réu
+requerido
+executado
+embargado
+agravado
+apelado
+demandado
+reconvindo
+renunciado
+reclamado
+representado
+repdo
+declarado
+devedor
+impugnado
+recorrido
+impetrado
+autor do fato/ vitima
